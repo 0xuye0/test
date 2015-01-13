@@ -1,0 +1,1 @@
+void xuyeprint(int i);
